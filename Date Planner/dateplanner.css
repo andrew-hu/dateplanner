@@ -1,0 +1,48 @@
+body {
+	font-family: Helvetica;
+    background-image: url("http://img.wallpaperstock.net:81/
+    	clouds-of-heart-wallpapers_27035_1920x1200.jpg");
+    background-attachment:fixed; 
+}
+
+h1 {
+    font-family: Papyrus, fantasy;
+    color: white;
+    text-align: center;
+}
+
+#events{
+    float:left;
+    width: 30%;
+    margin: 20 auto;
+    padding: 20px 20px;
+    background: #6699FF;
+    border: 1px solid black;
+}
+
+#dinner{
+    float:left;
+    width: 30%;
+    margin: 20 auto;
+    padding: 20px 20px;
+    background: #6699FF;
+    border: 1px solid black;
+}
+
+#movies{
+    float:left;
+    width: 30%;
+    margin: 20 auto;
+    padding: 20px 20px;
+    background: #6699FF;
+    border: 1px solid black;
+}
+
+#desc{
+    margin: 20 auto;
+    padding: 20px 20px;
+    background: #6699FF;
+    border: 1px solid black;
+}
+
+

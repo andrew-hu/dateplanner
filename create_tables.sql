@@ -1,0 +1,2 @@
+create table gen62_programs (ID int auto_increment NOT NULL, code VARCHAR(10) NULL, abbreviation VARCHAR(10) NULL, full_name VARCHAR(50) NULL, type varchar(5) null, PRIMARY KEY (ID));
+create table gen62_classes (ID int auto_increment primary key, symbol varchar(15), title varchar(100), program varchar(10), ge enum('yes', 'no'), semester varchar(10));
